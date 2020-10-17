@@ -1,0 +1,6 @@
+framework module Pods_Remove_Polyline_When_Object_Move {
+  umbrella header "Pods-Remove Polyline When Object Move-umbrella.h"
+
+  export *
+  module * { export * }
+}
